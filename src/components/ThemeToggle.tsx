@@ -1,0 +1,1 @@
+// This file can be removed as it's duplicated in src/components/ui/ThemeToggle.tsx

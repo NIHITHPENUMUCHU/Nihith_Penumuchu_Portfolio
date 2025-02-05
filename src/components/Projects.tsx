@@ -1,0 +1,1 @@
+// This file can be removed as it's been replaced by src/components/projects/Projects.tsx
