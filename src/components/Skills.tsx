@@ -21,19 +21,19 @@ export function Skills() {
       name: "Backend Development",
       icon: Terminal,
       description: "Creating scalable server-side applications and RESTful APIs",
-      technologies: ["Node.js", "Express", "Python", "FastAPI"]
+      technologies: ["Node.js", "Python", "FastAPI"]
     },
     {
       name: "Database Management",
       icon: Database,
       description: "Designing and optimizing database schemas and queries",
-      technologies: ["MongoDB", "PostgreSQL", "Redis", "Firebase"]
+      technologies: ["MongoDB", "SQL", "Superbase", "Firebase"]
     },
     {
       name: "Web Technologies",
       icon: Globe,
       description: "Proficient in core web technologies and modern standards",
-      technologies: ["HTML5", "CSS3", "JavaScript", "Web APIs"]
+      technologies: ["HTML", "CSS", "JavaScript", "Web APIs"]
     },
     {
       name: "Version Control",
@@ -45,19 +45,19 @@ export function Skills() {
       name: "Development Tools",
       icon: Wrench,
       description: "Utilizing modern development tools and practices",
-      technologies: ["VS Code", "Docker", "Webpack", "npm/yarn"]
+      technologies: ["VS Code", "Webpack", "npm/yarn"]
     },
     {
       name: "Programming Languages",
       icon: Code2,
       description: "Strong foundation in multiple programming paradigms",
-      technologies: ["JavaScript", "TypeScript", "Python", "Java"]
+      technologies: ["JavaScript", "TypeScript", "Python"]
     },
     {
       name: "System Architecture",
       icon: Cpu,
       description: "Designing scalable and maintainable system architectures",
-      technologies: ["Microservices", "REST", "GraphQL", "AWS"]
+      technologies: ["REST", "AWS"]
     }
   ];
 
